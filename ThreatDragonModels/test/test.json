@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "test",
+    "owner": "wu"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "user",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "wu"
+  }
+}
